@@ -49,14 +49,14 @@
       "deviceSignature": "q3WBf1Xs4r1a3GgQCqq4TjUNlpa/frJqNb4fiSjO3bBkv2qhnreNyiRbzSXEe4Rrcug+4t3fAgiF/EUgVax8hQ=="
     },
     "me": {
-      "id": "94763427338:13@s.whatsapp.net",
-      "verifiedName": "vihangaashinshana",
-      "name": "vihangaashinshana"
+      "id": "94763763922:13@s.whatsapp.net",
+      "verifiedName": "sudda",
+      "name": "sudda"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "94763427338:13@s.whatsapp.net",
+          "name": "94763763922:13@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -363,7 +363,7 @@
       }
     },
     "sessions": {
-      "94763427338.0": {
+      "94763763922.0": {
         "_sessions": {
           "BS8bK9WVREr8vwplTndISyNg2fbPKteYjHS4gGEN8fJ5": {
             "registrationId": 792116957,
